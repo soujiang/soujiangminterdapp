@@ -403,7 +403,7 @@ function App() {
               style={{ transform: "scaleX(-1)" }}
             />
             <s.Container flex={1} jc={"center"} ai={"center"}>
-            <StyledImg alt={"example"} src={"/config/images/example.gif"} />
+
           </s.Container>
           </s.Container>
         </ResponsiveWrapper>
