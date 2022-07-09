@@ -14,14 +14,14 @@ export const Screen = styled.div`
 
 // Used for providing space between components
 export const SpacerXSmall = styled.div`
-  height: 8px;
-  width: 8px;
+  height: 150px;
+  width: 150px;
 `;
 
 // Used for providing space between components
 export const SpacerSmall = styled.div`
-  height: 150px;
-  width: 150px;
+  height: 16px;
+  width: 16px;
 `;
 
 // Used for providing space between components
