@@ -1,121 +1,35 @@
-# Welcome to The Stripes NFT 💎
+#Welcome to our Airdrop to get free Electhrons.
 
-![](https://github.com/The-Stripes-NFT/nft-minting-app/blob/main/logo-blob.png)
+Through our mint page you can get a free NFT that will allow you to win Electrons and be part of our Airdrop.
 
-All the code in these repos was created and explained by HashLips on the main YouTube channel.
+To participate in the Airdrop you have to perform 3 steps:
 
-To find out more please visit:
+Step 1. Mint your free NFT to participate. You only have to pay for gas, because NFT is free.
 
-[📺 YouTube](https://www.youtube.com/AliSolanki)
+Step 2. Register your NFT and the unique code that comes in the NFT, in the Telegram Bot that we have enabled for it here >TELEGRAM BOT< Just follow the instructions.
 
-[💬 Telegram](https://t.me/studentsamaj)
+Step 3. Enter any of our social networks and participate in the activities to earn Electhrons.
 
-[🐦 Twitter](https://twitter.com/thestripesnft)
+RECOMMENDATIONS.
 
-[ℹ️ Website](https://thestripesnft.com/)
+1.- We recommend that you go to our official page >http://electrons.github.io< to read our Whitepaper and the economic proposal. There you will be able to know all the details of what we do, what we hope to achieve and the projects we are working on.
 
-# The Stripes NFT minting dapp 🔥
+2.- We recommend you read the instructions for the Airdrop, which you can download from our website.
 
-This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.
+3.- We recommend you to stay active in our social networks, participating in the activities that we propose, you will be able to win Electhrons, NFTs, creatures and properties in our metaverse.
 
-The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).
+THESE ARE OUR OFFICIAL SOCIAL NETWORKS.
 
-The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through).
+Twitter
+Twitter
+Telegram
+Instagram
+Discord
 
-## Installation 🛠️
+IF YOU WANT TO BUY MORE NFT CODES TO PARTICIPATE IN THE AIRDROP
 
-If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step.
+We give you an NFT per wallet that will allow you to earn Electrons and participate in our Airdrop. In total we will distribute 20,000,000 Electhrons, which will be distributed among all those who participate in our activities. 
 
-```sh
-git clone https://github.com/The-Stripes-NFT/nft-minting-app.git
-```
+With the free NFT we give you should be enough to participate, but you can get advantages if you buy more NFT with unique codes to earn more Electhrons before they run out.
 
-Make sure you have node.js installed so you can use npm, then run:
-
-```sh
-npm install
-```
-
-## Usage ℹ️
-
-In order to make use of this dapp, all you need to do is change the configurations to point to your smart contract as well as update the images and theme file.
-
-For the most part all the changes will be in the `public` folder.
-
-To link up your existing smart contract, go to the `public/config/config.json` file and update the following fields to fit your smart contract, network and marketplace details. The cost field should be in wei.
-
-Note: this dapp is designed to work with the intended NFT smart contract, that only takes one parameter in the mint function "mintAmount". But you can change that in the App.js file if you need to use a smart contract that takes 2 params.
-
-```json
-{
-  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
-  },
-  "NFT_NAME": "The Stripes NFT",
-  "SYMBOL": "TSNFT",
-  "MAX_SUPPLY": 992,
-  "WEI_COST": 75000000000000000,
-  "DISPLAY_COST": 0.075,
-  "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
-  "SHOW_BACKGROUND": true
-}
-```
-
-Make sure you copy the contract ABI from remix and paste it in the `public/config/abi.json` file.
-(follow the youtube video if you struggle with this part).
-
-Now you will need to create and change 2 images and a gif in the `public/config/images` folder, `bg.png`, `example.gif` and `logo.png`.
-
-Next change the theme colors to your liking in the `public/config/theme.css` file.
-
-```css
-:root {
-  --primary: #ebc908;
-  --primary-text: #1a1a1a;
-  --secondary: #ff1dec;
-  --secondary-text: #ffffff;
-  --accent: #ffffff;
-  --accent-text: #000000;
-}
-```
-
-Now you will need to create and change the `public/favicon.ico`, `public/logo192.png`, and
-`public/logo512.png` to your brand images.
-
-Remember to update the title and description the `public/index.html` file
-
-```html
-<title>The Stripes NFT</title>
-<meta name="description" content="Mint your Stripes NFT" />
-```
-
-Also remember to update the short_name and name fields in the `public/manifest.json` file
-
-```json
-{
-  "short_name": "TSNFT",
-  "name": "The Stripes NFT"
-}
-```
-
-After all the changes you can run.
-
-```sh
-npm run start
-```
-
-Or create the build if you are ready to deploy.
-
-```sh
-npm run build
-```
-
-Now you can host the contents of the build folder on a server.
-
-That's it! you're done.
+To buy more NFT with a unique code you can enter here >NFT Airdrop mint page<. You have direct access to the page on our website
