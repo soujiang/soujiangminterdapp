@@ -245,14 +245,26 @@ function App() {
             >
               <StyledButton
                 onClick={(e) => {
-                  window.open("/config/roadmap.pdf", "_blank");
+                  window.open("/upload/whitepaper_electhrons.pdf", "_blank");
                 }}
                 style={{
                   margin: "5px",
                 }}
               >
-                Whitepaper_Electhrons
+                Whitepaper
               </StyledButton>
+
+              <StyledButton
+                onClick={(e) => {
+                  window.open("/upload/whitepaper_electhrons.pdf", "_blank");
+                }}
+                style={{
+                  margin: "5px",
+                }}
+              >
+                misterio
+              </StyledButton>
+
               <StyledButton
                 style={{
                   margin: "5px",
