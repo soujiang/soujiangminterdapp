@@ -32,4 +32,8 @@ We give you an NFT per wallet that will allow you to earn Electrons and particip
 
 With the free NFT we give you should be enough to participate, but you can get advantages if you buy more NFT with unique codes to earn more Electhrons before they run out.
 
-To buy more NFT with a unique code you can enter here >NFT Airdrop mint page<. You have direct access to the page on our website
+To buy more NFT with a unique code you can enter here >NFT Airdrop mint page<. You have direct access to the page on our website.
+
+****
+
+The original version of this DApp was pulled from Hashlips. We recommend visiting their Github for more details.
