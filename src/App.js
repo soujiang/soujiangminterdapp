@@ -277,6 +277,17 @@ function App() {
               </StyledButton>
 
               <StyledButton
+                onClick={(e) => {
+                  window.open("/upload/whitepaper_electhrons.pdf", "_blank");
+                }}
+                style={{
+                  margin: "5px",
+                }}
+              >
+                Buy More
+              </StyledButton>
+
+              <StyledButton
                 style={{
                   margin: "5px",
                 }}
