@@ -256,7 +256,7 @@ function App() {
 
               <StyledButton
                 onClick={(e) => {
-                  window.open("/upload/whitepaper_electhrons.pdf", "_blank");
+                  window.open("https://soujiang.github.io", "_blank");
                 }}
                 style={{
                   margin: "5px",
