@@ -262,7 +262,7 @@ function App() {
                   margin: "5px",
                 }}
               >
-                Telegram Bot
+                Website
               </StyledButton>
 
               <StyledButton
