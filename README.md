@@ -1,6 +1,6 @@
 #Welcome to our Airdrop to get free Electhrons.
 
-Through our mint page you can get a free NFT that will allow you to win Electrons and be part of our Airdrop.
+Through our mint page you can get a free NFT that will allow you to win Electhrons and be part of our Airdrop.
 
 To participate in the Airdrop you have to perform 3 steps:
 
@@ -12,7 +12,7 @@ Step 3. Enter any of our social networks and participate in the activities to ea
 
 RECOMMENDATIONS.
 
-1.- We recommend that you go to our official page >http://electrons.github.io< to read our Whitepaper and the economic proposal. There you will be able to know all the details of what we do, what we hope to achieve and the projects we are working on.
+1.- We recommend that you go to our official page >http://electhrons.github.io< to read our Whitepaper and the economic proposal. There you will be able to know all the details of what we do, what we hope to achieve and the projects we are working on.
 
 2.- We recommend you read the instructions for the Airdrop, which you can download from our website.
 
@@ -28,7 +28,7 @@ Discord
 
 IF YOU WANT TO BUY MORE NFT CODES TO PARTICIPATE IN THE AIRDROP
 
-We give you an NFT per wallet that will allow you to earn Electrons and participate in our Airdrop. In total we will distribute 20,000,000 Electhrons, which will be distributed among all those who participate in our activities. 
+We give you an NFT per wallet that will allow you to earn Electhrons and participate in our Airdrop. In total we will distribute 20,000,000 Electhrons, which will be distributed among all those who participate in our activities. 
 
 With the free NFT we give you should be enough to participate, but you can get advantages if you buy more NFT with unique codes to earn more Electhrons before they run out.
 
