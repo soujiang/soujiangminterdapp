@@ -262,7 +262,7 @@ function App() {
                   margin: "5px",
                 }}
               >
-                misterio
+                Telegram Bot
               </StyledButton>
 
               <StyledButton
